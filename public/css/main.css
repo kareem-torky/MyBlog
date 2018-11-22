@@ -1,0 +1,56 @@
+
+
+body {
+    background-image: url(/storage/cover_images/forest.jpg);
+}
+
+.content-container {
+    background-color: white;
+    margin-top: 30px;
+    min-height: 500px;
+}
+
+.post-card {
+    margin-top: 30px;
+}
+
+.status-card {
+    margin-top: 30px;
+    border-color: rgb(218, 45, 45);
+    border-width: 3px;
+}
+
+.activity-container {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.activity-card {
+    margin-bottom: 30px;
+}
+
+.btn {
+    margin-top: 30px;
+}
+
+.post-image {
+    margin-bottom: 30px;
+}
+
+.add-comment-btn {
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+.comment-textarea {
+    margin-top: 30px;
+}
+
+.no-margin-btn {
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+.special-font {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
